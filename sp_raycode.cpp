@@ -5,8 +5,8 @@
 #include<omp.h>
 
 /* 
-Compilation command: g++ SpherePlane_raycode.cpp
-Compilation command (OMP parallelism):  g++ -fopenmp SpherePlane_raycode.cpp
+Compilation command: g++ sp_raycode.cpp
+Compilation command (OMP parallelism):  g++ -fopenmp sp_raycode.cpp
 */
 
 int main()
